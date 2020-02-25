@@ -1,10 +1,10 @@
-package cn.jack.leetcode.leetcode581;
+package cn.jack.leetcode.subject;
 
 /**
  * 581. 最短无序连续子数组
  * https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
  */
-public class Test {
+public class LeetCode581 {
 
     public static void main(String[] args) {
 //        int[] nums = {2, 6, 4, 8, 10, 9, 15};
