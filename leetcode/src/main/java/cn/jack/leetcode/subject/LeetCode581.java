@@ -1,8 +1,9 @@
 package cn.jack.leetcode.subject;
 
 /**
- * 581. 最短无序连续子数组
- * https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
+ * 题号：581. 最短无序连续子数组
+ * 链接：https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
+ * 描述：简单题
  */
 public class LeetCode581 {
 

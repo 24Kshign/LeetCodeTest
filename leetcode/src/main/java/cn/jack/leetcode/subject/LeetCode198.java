@@ -1,8 +1,9 @@
 package cn.jack.leetcode.subject;
 
 /**
- * 198. 打家劫舍
- * https://leetcode-cn.com/problems/house-robber/
+ * 题号：198. 打家劫舍
+ * 链接：https://leetcode-cn.com/problems/house-robber/
+ * 描述：简单题
  */
 public class LeetCode198 {
 

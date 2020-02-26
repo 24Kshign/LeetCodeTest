@@ -3,8 +3,9 @@ package cn.jack.leetcode.subject;
 import java.util.Stack;
 
 /**
- * 20. 有效的括号
- * https://leetcode-cn.com/problems/valid-parentheses/
+ * 题号：20. 有效的括号
+ * 链接：https://leetcode-cn.com/problems/valid-parentheses/
+ * 描述：简单题
  */
 public class LeetCode20 {
 
