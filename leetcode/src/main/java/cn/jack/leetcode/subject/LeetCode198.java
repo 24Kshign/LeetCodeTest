@@ -3,7 +3,7 @@ package cn.jack.leetcode.subject;
 /**
  * 题号：198. 打家劫舍
  * 链接：https://leetcode-cn.com/problems/house-robber/
- * 描述：简单题
+ * 描述：简单题，动态规划
  */
 public class LeetCode198 {
 
